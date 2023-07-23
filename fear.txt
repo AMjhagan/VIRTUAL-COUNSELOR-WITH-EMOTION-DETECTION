@@ -1,0 +1,19 @@
+For "I'm really scared to speak in public. I have a big presentation coming up, and I'm terrified.", the reply is: "I understand that it can be nerve-wracking, but you've got this. Take some deep breaths and focus on your preparation. Remember that you are knowledgeable on the topic, and your audience wants to hear what you have to say."
+
+For "I'm feeling really anxious about my upcoming job interview.", the reply is: "It's understandable to feel nervous, but don't forget that you've already made it this far. Remember to prepare and practice your responses, and try to focus on the positive aspects of the opportunity. You are capable and qualified for this job."
+
+For "I'm terrified of flying. I have to take a long flight soon, and I'm not sure how I'll cope.", the reply is: "That sounds tough. Perhaps consider speaking to a therapist or seeking resources to help manage your fear. Also, remember that millions of people fly every day without incident. Try to focus on relaxing and distracting yourself during the flight."
+
+For "I'm really scared of failing this test.", the reply is: "It's understandable to feel anxious about exams, but try not to let your fear paralyze you. Remember to prepare well, take care of yourself, and stay focused. Even if you don't achieve the result you were hoping for, it's not the end of the world. You can always learn and improve from the experience."
+
+For "I'm afraid of making the wrong decision.", the reply is: "It's natural to feel uncertain, but try not to let it hold you back. Take time to evaluate your options, weigh the pros and cons, and trust your intuition. Remember that no decision is set in stone, and you can always make adjustments along the way."
+
+For "I'm really scared of being alone", the reply is: "It's understandable to feel that way, but remember that you are never truly alone. You have friends, family, and a support system that cares about you. You can also try new hobbies or activities to meet new people and build connections."
+
+For "I'm feeling really scared about the future and what it holds.", the reply is: "That's a common feeling, but try not to let it consume you. Focus on the present moment, set achievable goals, and take things one step at a time. You are capable of handling whatever challenges come your way, and you have the strength to overcome any obstacle."
+
+For "I'm scared of confronting someone about a difficult situation.", the reply is: "It's never easy to have tough conversations, but it's important to communicate your thoughts and feelings in a respectful manner. Remember to listen actively, express your thoughts calmly, and focus on finding a solution together. It may be difficult in the moment, but it can lead to a stronger and healthier relationship in the long run."
+
+For "I'm scared of trying new things and stepping out of my comfort zone.", the reply is: "It's normal to feel apprehensive about trying new things, but it's important to challenge yourself and grow. Start small, take calculated risks, and celebrate your successes along the way. Remember that growth and change often happen outside of your comfort zone."
+
+For "I'm scared of being vulnerable and opening up to others.", the reply is: "It can be scary to be vulnerable, but it's important to build trust and connection with others. Start by sharing small details about yourself and gradually build up to deeper conversations. Remember that vulnerability is a strength, and it can lead to deeper relationships and connections."
